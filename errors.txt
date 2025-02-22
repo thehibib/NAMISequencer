@@ -1,0 +1,33 @@
+THIS IS WHAT FAILED AAAAHAHAHAHAHAHAHAHAHAHAH: 477{
+    "provider": "NAMI (National Alliance on Mental Illness)",
+    "email": null,
+    "phone number": null,
+    "video": null,
+    "website": "https://helplinefaqs.nami.org/article/298-how-can-i-find-a-mental-health-provider-who-is-part-of-or-has-experience-working-with-the-hispanic-latinx-community",
+    "general_category": "LATINX COMMUNITY",
+    "sub_category": null,
+    "description": "NAMI Knowledge Article for the Hispanic/Latinx Community: \\"                                                                                                    THIS IS WHAT FAILED AAAAHAHAHAHAHAHAHAHAHAHAH: 751{
+    "provider": "NAMI (National Alliance on Mental Illness)",
+    "email": null,
+    "phone number": null,
+    "video": null,
+    "website": "https://www.nami.org/",
+    "general_category": "SUICIDE",
+    "sub_category": ["Crisis", "Support Groups for Suicidal Ideation & Loss From Suicide", "Supporting Someone with Suicidal Thoughts"],
+    "description": "NAMI Knowledge Article on Suicidal Ideation: \\"                                                                                                    THIS IS WHAT FAILED AAAAHAHAHAHAHAHAHAHAHAHAH: 800{
+    "provider": "NAMI (National Alliance on Mental Illness)",
+    "email": null,
+    "phone number": null,
+    "video": null,
+    "website": "https://helplinefaqs.nami.org/article/255-i-need-to-see-a-psychiatrist-therapist-how-can-i-find-one",
+    "general_category": "TREATMENT",
+    "sub_category": null,
+    "description": "NAMI Knowledge Article on Treatment: \\"                                                                                                    THIS IS WHAT FAILED AAAAHAHAHAHAHAHAHAHAHAHAH: 829{
+    "provider": "NAMI",
+    "email": null,
+    "phone_number": null,
+    "video": null,
+    "website": "https://helplinefaqs.nami.org/article/255-i-need-to-see-a-psychiatrist-therapist-how-can-i-find-one",
+    "general_category": "TREATMENT",
+    "sub_category": null,
+    "description": "NAMI Knowledge Article on Treatment: \\"                                                                                                    
